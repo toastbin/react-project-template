@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import Routers from './routes'
 import { StoreContext } from 'redux-react-hook'
 import store from './store/index'
-import Loading from '@components/LoadingComponent'
+import Loading from './components/common/LoadingComponent'
 import './index.css';
 
 ReactDOM.render(
