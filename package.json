@@ -7,7 +7,7 @@
     "@rematch/core": "^1.2.0",
     "@rematch/loading": "^1.2.1",
     "antd": "^3.24.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-plugin-import": "^1.12.2",
     "customize-cra": "^0.8.0",
     "js-cookie": "^2.2.1",
